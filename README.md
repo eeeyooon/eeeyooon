@@ -1,7 +1,7 @@
 # eeeyooon 😆
 
 ![snake gif](https://github.com/eeeyooon/eeeyooon/blob/output/github-contribution-grid-snake.gif)
-- ![snake gif](https://github.com/eeeyooon/eeeyooon/blob/output/github-contribution-grid-snake.gif)
+
 <!--
 **eeeyooon/eeeyooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
