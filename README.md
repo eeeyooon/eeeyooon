@@ -6,6 +6,12 @@
 
 ### Tools :art:
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
+
+
+<!-- Hits
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feeeyooon&count_bg=%234FC2EF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
+
 <!--
 ![snake gif](https://github.com/eeeyooon/eeeyooon/blob/output/github-contribution-grid-snake.sgv)
 -->
