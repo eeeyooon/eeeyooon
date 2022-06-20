@@ -9,6 +9,7 @@
               
 ### Tools :art:  
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/VSC-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> 
+<br>
 
 <br>
 
