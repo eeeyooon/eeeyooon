@@ -1,6 +1,6 @@
 <div align='center'>
   
-# *eeeyooon* 😆
+# *eeeyooon* :satisfied:
 <br>
   
   ### Studying :memo:
