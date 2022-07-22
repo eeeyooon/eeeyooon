@@ -29,10 +29,8 @@
   </div>
 
 
-
-<!--
 ![snake gif](https://github.com/eeeyooon/eeeyooon/blob/output/github-contribution-grid-snake.sgv)
--->
+
 <!--
 **eeeyooon/eeeyooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
