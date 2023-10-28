@@ -28,7 +28,7 @@
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeeyooon&layout=compact&exclude_repo=Plan_It_Share_Project)](https://github.com/eeeyooon/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeeyooon&layout=compact&exclude_repo=Plan_It_Share_Project,moonbucks,RWD_practice,LikeLion)](https://github.com/eeeyooon/github-readme-stats) 
 
   <!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=eeeyooon&theme=tokyonight_duo)](https://git.io/streak-stats)
