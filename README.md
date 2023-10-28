@@ -27,10 +27,13 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeeyooon&layout=compact)](https://github.com/eeeyooon/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeeyooon&layout=compact&exclude_repo=Plan_It_Share_Project)](https://github.com/eeeyooon/github-readme-stats) 
+
   <!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=eeeyooon&theme=tokyonight_duo)](https://git.io/streak-stats)
 -->
+
 <!-- ![eeeyooon's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeeyooon&show_icons=true&theme=transparent)  -->
   
 
