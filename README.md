@@ -12,7 +12,7 @@
  <br>
 
  ### Study 📚
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/ReduxToolkit-764ABC?style=flat&logo=Redux&logoColor=white"/>
 <br/>
 <!--
 ### Tools :art:  
@@ -33,10 +33,9 @@
   <!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=eeeyooon&theme=tokyonight_duo)](https://git.io/streak-stats)
 -->
-
-<!-- ![eeeyooon's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeeyooon&show_icons=true&theme=transparent)  -->
-  
-
+<!--
+![eeeyooon's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeeyooon&show_icons=true&theme=transparent) 
+-->
   </div>
 
 <!--
