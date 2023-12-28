@@ -35,8 +35,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeeyooon&layout=compact&exclude_repo=Plan_It_Share_Project,moonbucks,RWD_practice,LikeLion)](https://github.com/eeeyooon/github-readme-stats) 
 
 <br/>
-
- [![eeeyooon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eeeyooon&theme=react&height=400)](https://github.com/eeeyooon/github-readme-activity-graph)
+<!--
+ [![eeeyooon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eeeyooon&theme=react&height=400&width=50)](https://github.com/eeeyooon/github-readme-activity-graph)
+-->
 
   <!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=eeeyooon&theme=tokyonight_duo)](https://git.io/streak-stats)
