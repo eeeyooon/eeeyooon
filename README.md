@@ -28,7 +28,7 @@
 
 ### Velog
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eeeyooon)](https://github.com/eungyeole/velog-readme-stats)
+<img width="60%" src="https://velog-readme-stats.vercel.app/api?name=eeeyooon" />
 
 
 
