@@ -26,6 +26,10 @@
  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white"/>  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=MUI&logoColor=white"/> <br/> 
 -->
 
+### Velog
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eeeyooon)](https://github.com/eungyeole/velog-readme-stats)
+
 
 
 <!--
