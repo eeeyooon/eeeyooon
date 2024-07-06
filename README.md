@@ -12,8 +12,9 @@
    <!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> -->
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> 
+<!--
 <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
-<!-- <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/> -->
+ <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/> -->
 
 ### Stats
 
@@ -25,12 +26,12 @@
 
  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white"/>  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=MUI&logoColor=white"/> <br/> 
 -->
-
+<!--
 ### Velog
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eeeyooon&slug=챌린지의-파도를-넘어-개발자로-개발-직군-취준생을-위한-챌린지-플랫폼-WAVED)](https://velog.io/@eeeyooon/%EC%B1%8C%EB%A6%B0%EC%A7%80%EC%9D%98-%ED%8C%8C%EB%8F%84%EB%A5%BC-%EB%84%98%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EA%B0%9C%EB%B0%9C-%EC%A7%81%EA%B5%B0-%EC%B7%A8%EC%A4%80%EC%83%9D%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%B1%8C%EB%A6%B0%EC%A7%80-%ED%94%8C%EB%9E%AB%ED%8F%BC-WAVED)
 
-
+-->
 <br/>
   <img src="https://render.gitanimals.org/lines/eeeyooon?farms" width="1000" height="120"/>
 
