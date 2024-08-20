@@ -1,17 +1,16 @@
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:56B0D1,100:56B0D1&height=170&section=header&text=Hello,&nbsp;I'm&nbsp;jiyoon👋🏻&fontSize=35&fontColor=ffffff&fontAlign=25)
 
- <div align='center'>
-
 <br>
   -->
 
   <a href="https://github.com/eeeyooon"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feeeyooon&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/whkakrkr">
 
-  ### Stacks 
+  ### Stacks
+
    <!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> -->
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> 
 <!--
 <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
  <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/> -->
@@ -33,7 +32,23 @@
 
 -->
 <br/>
-  <img src="https://render.gitanimals.org/lines/eeeyooon?farms" width="1000" height="120"/>
+  <img
+    src="https://render.gitanimals.org/lines/eeeyooon?pet-id=583881548058596822"
+    width="600"
+    height="120"
+  />
+  <img
+    src="https://render.gitanimals.org/lines/eeeyooon?pet-id=598069042953975289"
+    width="600"
+    height="120"
+  />
+
+  <img
+    src="https://render.gitanimals.org/lines/eeeyooon?pet-id=607119363295263385"
+    width="600"
+    height="120"
+  />
+
 
 
 
