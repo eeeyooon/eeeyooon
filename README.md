@@ -32,11 +32,15 @@
 
 
 <br/>
+
+
   <img
     src="https://render.gitanimals.org/lines/eeeyooon?pet-id=583881548058596822"
     width="600"
     height="120"
   />
+
+  <!--
   <img
     src="https://render.gitanimals.org/lines/eeeyooon?pet-id=598069042953975289"
     width="600"
@@ -48,8 +52,7 @@
     width="600"
     height="120"
   />
-
-
+  -->
 
 
 <!--
