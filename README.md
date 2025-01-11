@@ -15,11 +15,12 @@
 <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
  <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/> -->
 
+<!--
 ### Stats
 
 
 ![eeeyooon's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeeyooon&show_icons=true&theme=transparent) 
-
+-->
 <!--
  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
 
@@ -33,13 +34,20 @@
 -->
 <br/>
 
-
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/eeeyooon"
+  width="600"
+  height="300"
+/>
+</a>
+<!--
   <img
     src="https://render.gitanimals.org/lines/eeeyooon?pet-id=583881548058596822"
     width="600"
     height="120"
   />
-
+-->
   <!--
   <img
     src="https://render.gitanimals.org/lines/eeeyooon?pet-id=598069042953975289"
